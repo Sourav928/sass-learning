@@ -3,9 +3,9 @@
 .card{
     display: block;
     padding: $base-padding;
-    border: $borders-thickness solid #ccc;
+    border: $base-border-thickness solid #ccc;
     box-shadow: $base-box-shadow;
-    border-radius: math.div($borders-radius, 5);
+    border-radius: math.div($base-border-radius, 5);
     .card-title{
         font-size: $font-size-lg;
         font-weight: bold;
