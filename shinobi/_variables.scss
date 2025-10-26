@@ -25,10 +25,10 @@ $colors: (
 );
 
 
-@debug map-get($colors, "primary");
-@debug map-has-key($colors, "primary");
-@debug map-remove($colors, "primary");
-@debug map-merge($colors, ("pink": #ffc0cb));
+// @debug map-get($colors, "primary");
+// @debug map-has-key($colors, "primary");
+// @debug map-remove($colors, "primary");
+// @debug map-merge($colors, ("pink": #ffc0cb));
 
 .test-btn{
     background-color: map-get($colors, "primary");
@@ -41,9 +41,16 @@ $colors: (
 $base-padding: 0.75rem;
 $base-margin: 0.75rem;
 
+.p-1{
+    padding: $base-padding;
+}
+.m-1{
+    margin: $base-margin;
+}
+
 //borders
-$borders-thickness: 1px;
-$borders-radius: 20px;
+$base-border-thickness: 1px;
+$base-border-radius: 20px;
 
 //box-shadow
 $base-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
