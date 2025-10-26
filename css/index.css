@@ -1,0 +1,1741 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+.test-btn {
+  background-color: #326dee;
+}
+
+.text-primary {
+  color: #326dee;
+}
+
+.bg-primary {
+  background-color: #326dee;
+}
+
+.text-light-primary-1 {
+  color: rgb(70.5, 123.6, 239.7);
+}
+
+.text-hover-primary-light-1:hover {
+  color: rgb(70.5, 123.6, 239.7);
+}
+
+.bg-light-primary-1 {
+  background-color: rgb(70.5, 123.6, 239.7);
+}
+
+.bg-hover-primary-light-1:hover {
+  background-color: rgb(70.5, 123.6, 239.7);
+}
+
+.text-light-primary-2 {
+  color: rgb(91, 138.2, 241.4);
+}
+
+.text-hover-primary-light-2:hover {
+  color: rgb(91, 138.2, 241.4);
+}
+
+.bg-light-primary-2 {
+  background-color: rgb(91, 138.2, 241.4);
+}
+
+.bg-hover-primary-light-2:hover {
+  background-color: rgb(91, 138.2, 241.4);
+}
+
+.text-light-primary-3 {
+  color: rgb(111.5, 152.8, 243.1);
+}
+
+.text-hover-primary-light-3:hover {
+  color: rgb(111.5, 152.8, 243.1);
+}
+
+.bg-light-primary-3 {
+  background-color: rgb(111.5, 152.8, 243.1);
+}
+
+.bg-hover-primary-light-3:hover {
+  background-color: rgb(111.5, 152.8, 243.1);
+}
+
+.text-light-primary-4 {
+  color: rgb(132, 167.4, 244.8);
+}
+
+.text-hover-primary-light-4:hover {
+  color: rgb(132, 167.4, 244.8);
+}
+
+.bg-light-primary-4 {
+  background-color: rgb(132, 167.4, 244.8);
+}
+
+.bg-hover-primary-light-4:hover {
+  background-color: rgb(132, 167.4, 244.8);
+}
+
+.text-light-primary-5 {
+  color: rgb(152.5, 182, 246.5);
+}
+
+.text-hover-primary-light-5:hover {
+  color: rgb(152.5, 182, 246.5);
+}
+
+.bg-light-primary-5 {
+  background-color: rgb(152.5, 182, 246.5);
+}
+
+.bg-hover-primary-light-5:hover {
+  background-color: rgb(152.5, 182, 246.5);
+}
+
+.text-light-primary-6 {
+  color: rgb(173, 196.6, 248.2);
+}
+
+.text-hover-primary-light-6:hover {
+  color: rgb(173, 196.6, 248.2);
+}
+
+.bg-light-primary-6 {
+  background-color: rgb(173, 196.6, 248.2);
+}
+
+.bg-hover-primary-light-6:hover {
+  background-color: rgb(173, 196.6, 248.2);
+}
+
+.text-light-primary-7 {
+  color: rgb(193.5, 211.2, 249.9);
+}
+
+.text-hover-primary-light-7:hover {
+  color: rgb(193.5, 211.2, 249.9);
+}
+
+.bg-light-primary-7 {
+  background-color: rgb(193.5, 211.2, 249.9);
+}
+
+.bg-hover-primary-light-7:hover {
+  background-color: rgb(193.5, 211.2, 249.9);
+}
+
+.text-light-primary-8 {
+  color: rgb(214, 225.8, 251.6);
+}
+
+.text-hover-primary-light-8:hover {
+  color: rgb(214, 225.8, 251.6);
+}
+
+.bg-light-primary-8 {
+  background-color: rgb(214, 225.8, 251.6);
+}
+
+.bg-hover-primary-light-8:hover {
+  background-color: rgb(214, 225.8, 251.6);
+}
+
+.text-light-primary-9 {
+  color: rgb(234.5, 240.4, 253.3);
+}
+
+.text-hover-primary-light-9:hover {
+  color: rgb(234.5, 240.4, 253.3);
+}
+
+.bg-light-primary-9 {
+  background-color: rgb(234.5, 240.4, 253.3);
+}
+
+.bg-hover-primary-light-9:hover {
+  background-color: rgb(234.5, 240.4, 253.3);
+}
+
+.text-secondary {
+  color: #1ac888;
+}
+
+.bg-secondary {
+  background-color: #1ac888;
+}
+
+.text-light-secondary-1 {
+  color: rgb(48.9, 205.5, 147.9);
+}
+
+.text-hover-secondary-light-1:hover {
+  color: rgb(48.9, 205.5, 147.9);
+}
+
+.bg-light-secondary-1 {
+  background-color: rgb(48.9, 205.5, 147.9);
+}
+
+.bg-hover-secondary-light-1:hover {
+  background-color: rgb(48.9, 205.5, 147.9);
+}
+
+.text-light-secondary-2 {
+  color: rgb(71.8, 211, 159.8);
+}
+
+.text-hover-secondary-light-2:hover {
+  color: rgb(71.8, 211, 159.8);
+}
+
+.bg-light-secondary-2 {
+  background-color: rgb(71.8, 211, 159.8);
+}
+
+.bg-hover-secondary-light-2:hover {
+  background-color: rgb(71.8, 211, 159.8);
+}
+
+.text-light-secondary-3 {
+  color: rgb(94.7, 216.5, 171.7);
+}
+
+.text-hover-secondary-light-3:hover {
+  color: rgb(94.7, 216.5, 171.7);
+}
+
+.bg-light-secondary-3 {
+  background-color: rgb(94.7, 216.5, 171.7);
+}
+
+.bg-hover-secondary-light-3:hover {
+  background-color: rgb(94.7, 216.5, 171.7);
+}
+
+.text-light-secondary-4 {
+  color: rgb(117.6, 222, 183.6);
+}
+
+.text-hover-secondary-light-4:hover {
+  color: rgb(117.6, 222, 183.6);
+}
+
+.bg-light-secondary-4 {
+  background-color: rgb(117.6, 222, 183.6);
+}
+
+.bg-hover-secondary-light-4:hover {
+  background-color: rgb(117.6, 222, 183.6);
+}
+
+.text-light-secondary-5 {
+  color: rgb(140.5, 227.5, 195.5);
+}
+
+.text-hover-secondary-light-5:hover {
+  color: rgb(140.5, 227.5, 195.5);
+}
+
+.bg-light-secondary-5 {
+  background-color: rgb(140.5, 227.5, 195.5);
+}
+
+.bg-hover-secondary-light-5:hover {
+  background-color: rgb(140.5, 227.5, 195.5);
+}
+
+.text-light-secondary-6 {
+  color: rgb(163.4, 233, 207.4);
+}
+
+.text-hover-secondary-light-6:hover {
+  color: rgb(163.4, 233, 207.4);
+}
+
+.bg-light-secondary-6 {
+  background-color: rgb(163.4, 233, 207.4);
+}
+
+.bg-hover-secondary-light-6:hover {
+  background-color: rgb(163.4, 233, 207.4);
+}
+
+.text-light-secondary-7 {
+  color: rgb(186.3, 238.5, 219.3);
+}
+
+.text-hover-secondary-light-7:hover {
+  color: rgb(186.3, 238.5, 219.3);
+}
+
+.bg-light-secondary-7 {
+  background-color: rgb(186.3, 238.5, 219.3);
+}
+
+.bg-hover-secondary-light-7:hover {
+  background-color: rgb(186.3, 238.5, 219.3);
+}
+
+.text-light-secondary-8 {
+  color: rgb(209.2, 244, 231.2);
+}
+
+.text-hover-secondary-light-8:hover {
+  color: rgb(209.2, 244, 231.2);
+}
+
+.bg-light-secondary-8 {
+  background-color: rgb(209.2, 244, 231.2);
+}
+
+.bg-hover-secondary-light-8:hover {
+  background-color: rgb(209.2, 244, 231.2);
+}
+
+.text-light-secondary-9 {
+  color: rgb(232.1, 249.5, 243.1);
+}
+
+.text-hover-secondary-light-9:hover {
+  color: rgb(232.1, 249.5, 243.1);
+}
+
+.bg-light-secondary-9 {
+  background-color: rgb(232.1, 249.5, 243.1);
+}
+
+.bg-hover-secondary-light-9:hover {
+  background-color: rgb(232.1, 249.5, 243.1);
+}
+
+.text-error {
+  color: #f52e5f;
+}
+
+.bg-error {
+  background-color: #f52e5f;
+}
+
+.text-light-error-1 {
+  color: rgb(246, 66.9, 111);
+}
+
+.text-hover-error-light-1:hover {
+  color: rgb(246, 66.9, 111);
+}
+
+.bg-light-error-1 {
+  background-color: rgb(246, 66.9, 111);
+}
+
+.bg-hover-error-light-1:hover {
+  background-color: rgb(246, 66.9, 111);
+}
+
+.text-light-error-2 {
+  color: rgb(247, 87.8, 127);
+}
+
+.text-hover-error-light-2:hover {
+  color: rgb(247, 87.8, 127);
+}
+
+.bg-light-error-2 {
+  background-color: rgb(247, 87.8, 127);
+}
+
+.bg-hover-error-light-2:hover {
+  background-color: rgb(247, 87.8, 127);
+}
+
+.text-light-error-3 {
+  color: rgb(248, 108.7, 143);
+}
+
+.text-hover-error-light-3:hover {
+  color: rgb(248, 108.7, 143);
+}
+
+.bg-light-error-3 {
+  background-color: rgb(248, 108.7, 143);
+}
+
+.bg-hover-error-light-3:hover {
+  background-color: rgb(248, 108.7, 143);
+}
+
+.text-light-error-4 {
+  color: rgb(249, 129.6, 159);
+}
+
+.text-hover-error-light-4:hover {
+  color: rgb(249, 129.6, 159);
+}
+
+.bg-light-error-4 {
+  background-color: rgb(249, 129.6, 159);
+}
+
+.bg-hover-error-light-4:hover {
+  background-color: rgb(249, 129.6, 159);
+}
+
+.text-light-error-5 {
+  color: rgb(250, 150.5, 175);
+}
+
+.text-hover-error-light-5:hover {
+  color: rgb(250, 150.5, 175);
+}
+
+.bg-light-error-5 {
+  background-color: rgb(250, 150.5, 175);
+}
+
+.bg-hover-error-light-5:hover {
+  background-color: rgb(250, 150.5, 175);
+}
+
+.text-light-error-6 {
+  color: rgb(251, 171.4, 191);
+}
+
+.text-hover-error-light-6:hover {
+  color: rgb(251, 171.4, 191);
+}
+
+.bg-light-error-6 {
+  background-color: rgb(251, 171.4, 191);
+}
+
+.bg-hover-error-light-6:hover {
+  background-color: rgb(251, 171.4, 191);
+}
+
+.text-light-error-7 {
+  color: rgb(252, 192.3, 207);
+}
+
+.text-hover-error-light-7:hover {
+  color: rgb(252, 192.3, 207);
+}
+
+.bg-light-error-7 {
+  background-color: rgb(252, 192.3, 207);
+}
+
+.bg-hover-error-light-7:hover {
+  background-color: rgb(252, 192.3, 207);
+}
+
+.text-light-error-8 {
+  color: rgb(253, 213.2, 223);
+}
+
+.text-hover-error-light-8:hover {
+  color: rgb(253, 213.2, 223);
+}
+
+.bg-light-error-8 {
+  background-color: rgb(253, 213.2, 223);
+}
+
+.bg-hover-error-light-8:hover {
+  background-color: rgb(253, 213.2, 223);
+}
+
+.text-light-error-9 {
+  color: rgb(254, 234.1, 239);
+}
+
+.text-hover-error-light-9:hover {
+  color: rgb(254, 234.1, 239);
+}
+
+.bg-light-error-9 {
+  background-color: rgb(254, 234.1, 239);
+}
+
+.bg-hover-error-light-9:hover {
+  background-color: rgb(254, 234.1, 239);
+}
+
+.text-info {
+  color: #f1c40f;
+}
+
+.bg-info {
+  background-color: #f1c40f;
+}
+
+.text-light-info-1 {
+  color: rgb(242.4, 201.9, 39);
+}
+
+.text-hover-info-light-1:hover {
+  color: rgb(242.4, 201.9, 39);
+}
+
+.bg-light-info-1 {
+  background-color: rgb(242.4, 201.9, 39);
+}
+
+.bg-hover-info-light-1:hover {
+  background-color: rgb(242.4, 201.9, 39);
+}
+
+.text-light-info-2 {
+  color: rgb(243.8, 207.8, 63);
+}
+
+.text-hover-info-light-2:hover {
+  color: rgb(243.8, 207.8, 63);
+}
+
+.bg-light-info-2 {
+  background-color: rgb(243.8, 207.8, 63);
+}
+
+.bg-hover-info-light-2:hover {
+  background-color: rgb(243.8, 207.8, 63);
+}
+
+.text-light-info-3 {
+  color: rgb(245.2, 213.7, 87);
+}
+
+.text-hover-info-light-3:hover {
+  color: rgb(245.2, 213.7, 87);
+}
+
+.bg-light-info-3 {
+  background-color: rgb(245.2, 213.7, 87);
+}
+
+.bg-hover-info-light-3:hover {
+  background-color: rgb(245.2, 213.7, 87);
+}
+
+.text-light-info-4 {
+  color: rgb(246.6, 219.6, 111);
+}
+
+.text-hover-info-light-4:hover {
+  color: rgb(246.6, 219.6, 111);
+}
+
+.bg-light-info-4 {
+  background-color: rgb(246.6, 219.6, 111);
+}
+
+.bg-hover-info-light-4:hover {
+  background-color: rgb(246.6, 219.6, 111);
+}
+
+.text-light-info-5 {
+  color: rgb(248, 225.5, 135);
+}
+
+.text-hover-info-light-5:hover {
+  color: rgb(248, 225.5, 135);
+}
+
+.bg-light-info-5 {
+  background-color: rgb(248, 225.5, 135);
+}
+
+.bg-hover-info-light-5:hover {
+  background-color: rgb(248, 225.5, 135);
+}
+
+.text-light-info-6 {
+  color: rgb(249.4, 231.4, 159);
+}
+
+.text-hover-info-light-6:hover {
+  color: rgb(249.4, 231.4, 159);
+}
+
+.bg-light-info-6 {
+  background-color: rgb(249.4, 231.4, 159);
+}
+
+.bg-hover-info-light-6:hover {
+  background-color: rgb(249.4, 231.4, 159);
+}
+
+.text-light-info-7 {
+  color: rgb(250.8, 237.3, 183);
+}
+
+.text-hover-info-light-7:hover {
+  color: rgb(250.8, 237.3, 183);
+}
+
+.bg-light-info-7 {
+  background-color: rgb(250.8, 237.3, 183);
+}
+
+.bg-hover-info-light-7:hover {
+  background-color: rgb(250.8, 237.3, 183);
+}
+
+.text-light-info-8 {
+  color: rgb(252.2, 243.2, 207);
+}
+
+.text-hover-info-light-8:hover {
+  color: rgb(252.2, 243.2, 207);
+}
+
+.bg-light-info-8 {
+  background-color: rgb(252.2, 243.2, 207);
+}
+
+.bg-hover-info-light-8:hover {
+  background-color: rgb(252.2, 243.2, 207);
+}
+
+.text-light-info-9 {
+  color: rgb(253.6, 249.1, 231);
+}
+
+.text-hover-info-light-9:hover {
+  color: rgb(253.6, 249.1, 231);
+}
+
+.bg-light-info-9 {
+  background-color: rgb(253.6, 249.1, 231);
+}
+
+.bg-hover-info-light-9:hover {
+  background-color: rgb(253.6, 249.1, 231);
+}
+
+.text-blue {
+  color: #1919e6;
+}
+
+.bg-blue {
+  background-color: #1919e6;
+}
+
+.text-light-blue-1 {
+  color: rgb(48, 48, 232.5);
+}
+
+.text-hover-blue-light-1:hover {
+  color: rgb(48, 48, 232.5);
+}
+
+.bg-light-blue-1 {
+  background-color: rgb(48, 48, 232.5);
+}
+
+.bg-hover-blue-light-1:hover {
+  background-color: rgb(48, 48, 232.5);
+}
+
+.text-light-blue-2 {
+  color: #4747eb;
+}
+
+.text-hover-blue-light-2:hover {
+  color: #4747eb;
+}
+
+.bg-light-blue-2 {
+  background-color: #4747eb;
+}
+
+.bg-hover-blue-light-2:hover {
+  background-color: #4747eb;
+}
+
+.text-light-blue-3 {
+  color: rgb(94, 94, 237.5);
+}
+
+.text-hover-blue-light-3:hover {
+  color: rgb(94, 94, 237.5);
+}
+
+.bg-light-blue-3 {
+  background-color: rgb(94, 94, 237.5);
+}
+
+.bg-hover-blue-light-3:hover {
+  background-color: rgb(94, 94, 237.5);
+}
+
+.text-light-blue-4 {
+  color: #7575f0;
+}
+
+.text-hover-blue-light-4:hover {
+  color: #7575f0;
+}
+
+.bg-light-blue-4 {
+  background-color: #7575f0;
+}
+
+.bg-hover-blue-light-4:hover {
+  background-color: #7575f0;
+}
+
+.text-light-blue-5 {
+  color: rgb(140, 140, 242.5);
+}
+
+.text-hover-blue-light-5:hover {
+  color: rgb(140, 140, 242.5);
+}
+
+.bg-light-blue-5 {
+  background-color: rgb(140, 140, 242.5);
+}
+
+.bg-hover-blue-light-5:hover {
+  background-color: rgb(140, 140, 242.5);
+}
+
+.text-light-blue-6 {
+  color: #a3a3f5;
+}
+
+.text-hover-blue-light-6:hover {
+  color: #a3a3f5;
+}
+
+.bg-light-blue-6 {
+  background-color: #a3a3f5;
+}
+
+.bg-hover-blue-light-6:hover {
+  background-color: #a3a3f5;
+}
+
+.text-light-blue-7 {
+  color: rgb(186, 186, 247.5);
+}
+
+.text-hover-blue-light-7:hover {
+  color: rgb(186, 186, 247.5);
+}
+
+.bg-light-blue-7 {
+  background-color: rgb(186, 186, 247.5);
+}
+
+.bg-hover-blue-light-7:hover {
+  background-color: rgb(186, 186, 247.5);
+}
+
+.text-light-blue-8 {
+  color: #d1d1fa;
+}
+
+.text-hover-blue-light-8:hover {
+  color: #d1d1fa;
+}
+
+.bg-light-blue-8 {
+  background-color: #d1d1fa;
+}
+
+.bg-hover-blue-light-8:hover {
+  background-color: #d1d1fa;
+}
+
+.text-light-blue-9 {
+  color: rgb(232, 232, 252.5);
+}
+
+.text-hover-blue-light-9:hover {
+  color: rgb(232, 232, 252.5);
+}
+
+.bg-light-blue-9 {
+  background-color: rgb(232, 232, 252.5);
+}
+
+.bg-hover-blue-light-9:hover {
+  background-color: rgb(232, 232, 252.5);
+}
+
+.text-red {
+  color: #e61919;
+}
+
+.bg-red {
+  background-color: #e61919;
+}
+
+.text-light-red-1 {
+  color: rgb(232.5, 48, 48);
+}
+
+.text-hover-red-light-1:hover {
+  color: rgb(232.5, 48, 48);
+}
+
+.bg-light-red-1 {
+  background-color: rgb(232.5, 48, 48);
+}
+
+.bg-hover-red-light-1:hover {
+  background-color: rgb(232.5, 48, 48);
+}
+
+.text-light-red-2 {
+  color: #eb4747;
+}
+
+.text-hover-red-light-2:hover {
+  color: #eb4747;
+}
+
+.bg-light-red-2 {
+  background-color: #eb4747;
+}
+
+.bg-hover-red-light-2:hover {
+  background-color: #eb4747;
+}
+
+.text-light-red-3 {
+  color: rgb(237.5, 94, 94);
+}
+
+.text-hover-red-light-3:hover {
+  color: rgb(237.5, 94, 94);
+}
+
+.bg-light-red-3 {
+  background-color: rgb(237.5, 94, 94);
+}
+
+.bg-hover-red-light-3:hover {
+  background-color: rgb(237.5, 94, 94);
+}
+
+.text-light-red-4 {
+  color: #f07575;
+}
+
+.text-hover-red-light-4:hover {
+  color: #f07575;
+}
+
+.bg-light-red-4 {
+  background-color: #f07575;
+}
+
+.bg-hover-red-light-4:hover {
+  background-color: #f07575;
+}
+
+.text-light-red-5 {
+  color: rgb(242.5, 140, 140);
+}
+
+.text-hover-red-light-5:hover {
+  color: rgb(242.5, 140, 140);
+}
+
+.bg-light-red-5 {
+  background-color: rgb(242.5, 140, 140);
+}
+
+.bg-hover-red-light-5:hover {
+  background-color: rgb(242.5, 140, 140);
+}
+
+.text-light-red-6 {
+  color: #f5a3a3;
+}
+
+.text-hover-red-light-6:hover {
+  color: #f5a3a3;
+}
+
+.bg-light-red-6 {
+  background-color: #f5a3a3;
+}
+
+.bg-hover-red-light-6:hover {
+  background-color: #f5a3a3;
+}
+
+.text-light-red-7 {
+  color: rgb(247.5, 186, 186);
+}
+
+.text-hover-red-light-7:hover {
+  color: rgb(247.5, 186, 186);
+}
+
+.bg-light-red-7 {
+  background-color: rgb(247.5, 186, 186);
+}
+
+.bg-hover-red-light-7:hover {
+  background-color: rgb(247.5, 186, 186);
+}
+
+.text-light-red-8 {
+  color: #fad1d1;
+}
+
+.text-hover-red-light-8:hover {
+  color: #fad1d1;
+}
+
+.bg-light-red-8 {
+  background-color: #fad1d1;
+}
+
+.bg-hover-red-light-8:hover {
+  background-color: #fad1d1;
+}
+
+.text-light-red-9 {
+  color: rgb(252.5, 232, 232);
+}
+
+.text-hover-red-light-9:hover {
+  color: rgb(252.5, 232, 232);
+}
+
+.bg-light-red-9 {
+  background-color: rgb(252.5, 232, 232);
+}
+
+.bg-hover-red-light-9:hover {
+  background-color: rgb(252.5, 232, 232);
+}
+
+.text-green {
+  color: #19e635;
+}
+
+.bg-green {
+  background-color: #19e635;
+}
+
+.text-light-green-1 {
+  color: rgb(48, 232.5, 73.2);
+}
+
+.text-hover-green-light-1:hover {
+  color: rgb(48, 232.5, 73.2);
+}
+
+.bg-light-green-1 {
+  background-color: rgb(48, 232.5, 73.2);
+}
+
+.bg-hover-green-light-1:hover {
+  background-color: rgb(48, 232.5, 73.2);
+}
+
+.text-light-green-2 {
+  color: rgb(71, 235, 93.4);
+}
+
+.text-hover-green-light-2:hover {
+  color: rgb(71, 235, 93.4);
+}
+
+.bg-light-green-2 {
+  background-color: rgb(71, 235, 93.4);
+}
+
+.bg-hover-green-light-2:hover {
+  background-color: rgb(71, 235, 93.4);
+}
+
+.text-light-green-3 {
+  color: rgb(94, 237.5, 113.6);
+}
+
+.text-hover-green-light-3:hover {
+  color: rgb(94, 237.5, 113.6);
+}
+
+.bg-light-green-3 {
+  background-color: rgb(94, 237.5, 113.6);
+}
+
+.bg-hover-green-light-3:hover {
+  background-color: rgb(94, 237.5, 113.6);
+}
+
+.text-light-green-4 {
+  color: rgb(117, 240, 133.8);
+}
+
+.text-hover-green-light-4:hover {
+  color: rgb(117, 240, 133.8);
+}
+
+.bg-light-green-4 {
+  background-color: rgb(117, 240, 133.8);
+}
+
+.bg-hover-green-light-4:hover {
+  background-color: rgb(117, 240, 133.8);
+}
+
+.text-light-green-5 {
+  color: rgb(140, 242.5, 154);
+}
+
+.text-hover-green-light-5:hover {
+  color: rgb(140, 242.5, 154);
+}
+
+.bg-light-green-5 {
+  background-color: rgb(140, 242.5, 154);
+}
+
+.bg-hover-green-light-5:hover {
+  background-color: rgb(140, 242.5, 154);
+}
+
+.text-light-green-6 {
+  color: rgb(163, 245, 174.2);
+}
+
+.text-hover-green-light-6:hover {
+  color: rgb(163, 245, 174.2);
+}
+
+.bg-light-green-6 {
+  background-color: rgb(163, 245, 174.2);
+}
+
+.bg-hover-green-light-6:hover {
+  background-color: rgb(163, 245, 174.2);
+}
+
+.text-light-green-7 {
+  color: rgb(186, 247.5, 194.4);
+}
+
+.text-hover-green-light-7:hover {
+  color: rgb(186, 247.5, 194.4);
+}
+
+.bg-light-green-7 {
+  background-color: rgb(186, 247.5, 194.4);
+}
+
+.bg-hover-green-light-7:hover {
+  background-color: rgb(186, 247.5, 194.4);
+}
+
+.text-light-green-8 {
+  color: rgb(209, 250, 214.6);
+}
+
+.text-hover-green-light-8:hover {
+  color: rgb(209, 250, 214.6);
+}
+
+.bg-light-green-8 {
+  background-color: rgb(209, 250, 214.6);
+}
+
+.bg-hover-green-light-8:hover {
+  background-color: rgb(209, 250, 214.6);
+}
+
+.text-light-green-9 {
+  color: rgb(232, 252.5, 234.8);
+}
+
+.text-hover-green-light-9:hover {
+  color: rgb(232, 252.5, 234.8);
+}
+
+.bg-light-green-9 {
+  background-color: rgb(232, 252.5, 234.8);
+}
+
+.bg-hover-green-light-9:hover {
+  background-color: rgb(232, 252.5, 234.8);
+}
+
+.text-yellow {
+  color: #e6e619;
+}
+
+.bg-yellow {
+  background-color: #e6e619;
+}
+
+.text-light-yellow-1 {
+  color: rgb(232.5, 232.5, 48);
+}
+
+.text-hover-yellow-light-1:hover {
+  color: rgb(232.5, 232.5, 48);
+}
+
+.bg-light-yellow-1 {
+  background-color: rgb(232.5, 232.5, 48);
+}
+
+.bg-hover-yellow-light-1:hover {
+  background-color: rgb(232.5, 232.5, 48);
+}
+
+.text-light-yellow-2 {
+  color: #ebeb47;
+}
+
+.text-hover-yellow-light-2:hover {
+  color: #ebeb47;
+}
+
+.bg-light-yellow-2 {
+  background-color: #ebeb47;
+}
+
+.bg-hover-yellow-light-2:hover {
+  background-color: #ebeb47;
+}
+
+.text-light-yellow-3 {
+  color: rgb(237.5, 237.5, 94);
+}
+
+.text-hover-yellow-light-3:hover {
+  color: rgb(237.5, 237.5, 94);
+}
+
+.bg-light-yellow-3 {
+  background-color: rgb(237.5, 237.5, 94);
+}
+
+.bg-hover-yellow-light-3:hover {
+  background-color: rgb(237.5, 237.5, 94);
+}
+
+.text-light-yellow-4 {
+  color: #f0f075;
+}
+
+.text-hover-yellow-light-4:hover {
+  color: #f0f075;
+}
+
+.bg-light-yellow-4 {
+  background-color: #f0f075;
+}
+
+.bg-hover-yellow-light-4:hover {
+  background-color: #f0f075;
+}
+
+.text-light-yellow-5 {
+  color: rgb(242.5, 242.5, 140);
+}
+
+.text-hover-yellow-light-5:hover {
+  color: rgb(242.5, 242.5, 140);
+}
+
+.bg-light-yellow-5 {
+  background-color: rgb(242.5, 242.5, 140);
+}
+
+.bg-hover-yellow-light-5:hover {
+  background-color: rgb(242.5, 242.5, 140);
+}
+
+.text-light-yellow-6 {
+  color: #f5f5a3;
+}
+
+.text-hover-yellow-light-6:hover {
+  color: #f5f5a3;
+}
+
+.bg-light-yellow-6 {
+  background-color: #f5f5a3;
+}
+
+.bg-hover-yellow-light-6:hover {
+  background-color: #f5f5a3;
+}
+
+.text-light-yellow-7 {
+  color: rgb(247.5, 247.5, 186);
+}
+
+.text-hover-yellow-light-7:hover {
+  color: rgb(247.5, 247.5, 186);
+}
+
+.bg-light-yellow-7 {
+  background-color: rgb(247.5, 247.5, 186);
+}
+
+.bg-hover-yellow-light-7:hover {
+  background-color: rgb(247.5, 247.5, 186);
+}
+
+.text-light-yellow-8 {
+  color: #fafad1;
+}
+
+.text-hover-yellow-light-8:hover {
+  color: #fafad1;
+}
+
+.bg-light-yellow-8 {
+  background-color: #fafad1;
+}
+
+.bg-hover-yellow-light-8:hover {
+  background-color: #fafad1;
+}
+
+.text-light-yellow-9 {
+  color: rgb(252.5, 252.5, 232);
+}
+
+.text-hover-yellow-light-9:hover {
+  color: rgb(252.5, 252.5, 232);
+}
+
+.bg-light-yellow-9 {
+  background-color: rgb(252.5, 252.5, 232);
+}
+
+.bg-hover-yellow-light-9:hover {
+  background-color: rgb(252.5, 252.5, 232);
+}
+
+.text-purple {
+  color: #9900ff;
+}
+
+.bg-purple {
+  background-color: #9900ff;
+}
+
+.text-light-purple-1 {
+  color: rgb(163.2, 25.5, 255);
+}
+
+.text-hover-purple-light-1:hover {
+  color: rgb(163.2, 25.5, 255);
+}
+
+.bg-light-purple-1 {
+  background-color: rgb(163.2, 25.5, 255);
+}
+
+.bg-hover-purple-light-1:hover {
+  background-color: rgb(163.2, 25.5, 255);
+}
+
+.text-light-purple-2 {
+  color: rgb(173.4, 51, 255);
+}
+
+.text-hover-purple-light-2:hover {
+  color: rgb(173.4, 51, 255);
+}
+
+.bg-light-purple-2 {
+  background-color: rgb(173.4, 51, 255);
+}
+
+.bg-hover-purple-light-2:hover {
+  background-color: rgb(173.4, 51, 255);
+}
+
+.text-light-purple-3 {
+  color: rgb(183.6, 76.5, 255);
+}
+
+.text-hover-purple-light-3:hover {
+  color: rgb(183.6, 76.5, 255);
+}
+
+.bg-light-purple-3 {
+  background-color: rgb(183.6, 76.5, 255);
+}
+
+.bg-hover-purple-light-3:hover {
+  background-color: rgb(183.6, 76.5, 255);
+}
+
+.text-light-purple-4 {
+  color: rgb(193.8, 102, 255);
+}
+
+.text-hover-purple-light-4:hover {
+  color: rgb(193.8, 102, 255);
+}
+
+.bg-light-purple-4 {
+  background-color: rgb(193.8, 102, 255);
+}
+
+.bg-hover-purple-light-4:hover {
+  background-color: rgb(193.8, 102, 255);
+}
+
+.text-light-purple-5 {
+  color: rgb(204, 127.5, 255);
+}
+
+.text-hover-purple-light-5:hover {
+  color: rgb(204, 127.5, 255);
+}
+
+.bg-light-purple-5 {
+  background-color: rgb(204, 127.5, 255);
+}
+
+.bg-hover-purple-light-5:hover {
+  background-color: rgb(204, 127.5, 255);
+}
+
+.text-light-purple-6 {
+  color: rgb(214.2, 153, 255);
+}
+
+.text-hover-purple-light-6:hover {
+  color: rgb(214.2, 153, 255);
+}
+
+.bg-light-purple-6 {
+  background-color: rgb(214.2, 153, 255);
+}
+
+.bg-hover-purple-light-6:hover {
+  background-color: rgb(214.2, 153, 255);
+}
+
+.text-light-purple-7 {
+  color: rgb(224.4, 178.5, 255);
+}
+
+.text-hover-purple-light-7:hover {
+  color: rgb(224.4, 178.5, 255);
+}
+
+.bg-light-purple-7 {
+  background-color: rgb(224.4, 178.5, 255);
+}
+
+.bg-hover-purple-light-7:hover {
+  background-color: rgb(224.4, 178.5, 255);
+}
+
+.text-light-purple-8 {
+  color: rgb(234.6, 204, 255);
+}
+
+.text-hover-purple-light-8:hover {
+  color: rgb(234.6, 204, 255);
+}
+
+.bg-light-purple-8 {
+  background-color: rgb(234.6, 204, 255);
+}
+
+.bg-hover-purple-light-8:hover {
+  background-color: rgb(234.6, 204, 255);
+}
+
+.text-light-purple-9 {
+  color: rgb(244.8, 229.5, 255);
+}
+
+.text-hover-purple-light-9:hover {
+  color: rgb(244.8, 229.5, 255);
+}
+
+.bg-light-purple-9 {
+  background-color: rgb(244.8, 229.5, 255);
+}
+
+.bg-hover-purple-light-9:hover {
+  background-color: rgb(244.8, 229.5, 255);
+}
+
+.text-orange {
+  color: #ff8000;
+}
+
+.bg-orange {
+  background-color: #ff8000;
+}
+
+.text-light-orange-1 {
+  color: rgb(255, 140.7, 25.5);
+}
+
+.text-hover-orange-light-1:hover {
+  color: rgb(255, 140.7, 25.5);
+}
+
+.bg-light-orange-1 {
+  background-color: rgb(255, 140.7, 25.5);
+}
+
+.bg-hover-orange-light-1:hover {
+  background-color: rgb(255, 140.7, 25.5);
+}
+
+.text-light-orange-2 {
+  color: rgb(255, 153.4, 51);
+}
+
+.text-hover-orange-light-2:hover {
+  color: rgb(255, 153.4, 51);
+}
+
+.bg-light-orange-2 {
+  background-color: rgb(255, 153.4, 51);
+}
+
+.bg-hover-orange-light-2:hover {
+  background-color: rgb(255, 153.4, 51);
+}
+
+.text-light-orange-3 {
+  color: rgb(255, 166.1, 76.5);
+}
+
+.text-hover-orange-light-3:hover {
+  color: rgb(255, 166.1, 76.5);
+}
+
+.bg-light-orange-3 {
+  background-color: rgb(255, 166.1, 76.5);
+}
+
+.bg-hover-orange-light-3:hover {
+  background-color: rgb(255, 166.1, 76.5);
+}
+
+.text-light-orange-4 {
+  color: rgb(255, 178.8, 102);
+}
+
+.text-hover-orange-light-4:hover {
+  color: rgb(255, 178.8, 102);
+}
+
+.bg-light-orange-4 {
+  background-color: rgb(255, 178.8, 102);
+}
+
+.bg-hover-orange-light-4:hover {
+  background-color: rgb(255, 178.8, 102);
+}
+
+.text-light-orange-5 {
+  color: rgb(255, 191.5, 127.5);
+}
+
+.text-hover-orange-light-5:hover {
+  color: rgb(255, 191.5, 127.5);
+}
+
+.bg-light-orange-5 {
+  background-color: rgb(255, 191.5, 127.5);
+}
+
+.bg-hover-orange-light-5:hover {
+  background-color: rgb(255, 191.5, 127.5);
+}
+
+.text-light-orange-6 {
+  color: rgb(255, 204.2, 153);
+}
+
+.text-hover-orange-light-6:hover {
+  color: rgb(255, 204.2, 153);
+}
+
+.bg-light-orange-6 {
+  background-color: rgb(255, 204.2, 153);
+}
+
+.bg-hover-orange-light-6:hover {
+  background-color: rgb(255, 204.2, 153);
+}
+
+.text-light-orange-7 {
+  color: rgb(255, 216.9, 178.5);
+}
+
+.text-hover-orange-light-7:hover {
+  color: rgb(255, 216.9, 178.5);
+}
+
+.bg-light-orange-7 {
+  background-color: rgb(255, 216.9, 178.5);
+}
+
+.bg-hover-orange-light-7:hover {
+  background-color: rgb(255, 216.9, 178.5);
+}
+
+.text-light-orange-8 {
+  color: rgb(255, 229.6, 204);
+}
+
+.text-hover-orange-light-8:hover {
+  color: rgb(255, 229.6, 204);
+}
+
+.bg-light-orange-8 {
+  background-color: rgb(255, 229.6, 204);
+}
+
+.bg-hover-orange-light-8:hover {
+  background-color: rgb(255, 229.6, 204);
+}
+
+.text-light-orange-9 {
+  color: rgb(255, 242.3, 229.5);
+}
+
+.text-hover-orange-light-9:hover {
+  color: rgb(255, 242.3, 229.5);
+}
+
+.bg-light-orange-9 {
+  background-color: rgb(255, 242.3, 229.5);
+}
+
+.bg-hover-orange-light-9:hover {
+  background-color: rgb(255, 242.3, 229.5);
+}
+
+.text-gray {
+  color: #808080;
+}
+
+.bg-gray {
+  background-color: #808080;
+}
+
+.text-light-gray-1 {
+  color: rgb(140.7, 140.7, 140.7);
+}
+
+.text-hover-gray-light-1:hover {
+  color: rgb(140.7, 140.7, 140.7);
+}
+
+.bg-light-gray-1 {
+  background-color: rgb(140.7, 140.7, 140.7);
+}
+
+.bg-hover-gray-light-1:hover {
+  background-color: rgb(140.7, 140.7, 140.7);
+}
+
+.text-light-gray-2 {
+  color: rgb(153.4, 153.4, 153.4);
+}
+
+.text-hover-gray-light-2:hover {
+  color: rgb(153.4, 153.4, 153.4);
+}
+
+.bg-light-gray-2 {
+  background-color: rgb(153.4, 153.4, 153.4);
+}
+
+.bg-hover-gray-light-2:hover {
+  background-color: rgb(153.4, 153.4, 153.4);
+}
+
+.text-light-gray-3 {
+  color: rgb(166.1, 166.1, 166.1);
+}
+
+.text-hover-gray-light-3:hover {
+  color: rgb(166.1, 166.1, 166.1);
+}
+
+.bg-light-gray-3 {
+  background-color: rgb(166.1, 166.1, 166.1);
+}
+
+.bg-hover-gray-light-3:hover {
+  background-color: rgb(166.1, 166.1, 166.1);
+}
+
+.text-light-gray-4 {
+  color: rgb(178.8, 178.8, 178.8);
+}
+
+.text-hover-gray-light-4:hover {
+  color: rgb(178.8, 178.8, 178.8);
+}
+
+.bg-light-gray-4 {
+  background-color: rgb(178.8, 178.8, 178.8);
+}
+
+.bg-hover-gray-light-4:hover {
+  background-color: rgb(178.8, 178.8, 178.8);
+}
+
+.text-light-gray-5 {
+  color: rgb(191.5, 191.5, 191.5);
+}
+
+.text-hover-gray-light-5:hover {
+  color: rgb(191.5, 191.5, 191.5);
+}
+
+.bg-light-gray-5 {
+  background-color: rgb(191.5, 191.5, 191.5);
+}
+
+.bg-hover-gray-light-5:hover {
+  background-color: rgb(191.5, 191.5, 191.5);
+}
+
+.text-light-gray-6 {
+  color: rgb(204.2, 204.2, 204.2);
+}
+
+.text-hover-gray-light-6:hover {
+  color: rgb(204.2, 204.2, 204.2);
+}
+
+.bg-light-gray-6 {
+  background-color: rgb(204.2, 204.2, 204.2);
+}
+
+.bg-hover-gray-light-6:hover {
+  background-color: rgb(204.2, 204.2, 204.2);
+}
+
+.text-light-gray-7 {
+  color: rgb(216.9, 216.9, 216.9);
+}
+
+.text-hover-gray-light-7:hover {
+  color: rgb(216.9, 216.9, 216.9);
+}
+
+.bg-light-gray-7 {
+  background-color: rgb(216.9, 216.9, 216.9);
+}
+
+.bg-hover-gray-light-7:hover {
+  background-color: rgb(216.9, 216.9, 216.9);
+}
+
+.text-light-gray-8 {
+  color: rgb(229.6, 229.6, 229.6);
+}
+
+.text-hover-gray-light-8:hover {
+  color: rgb(229.6, 229.6, 229.6);
+}
+
+.bg-light-gray-8 {
+  background-color: rgb(229.6, 229.6, 229.6);
+}
+
+.bg-hover-gray-light-8:hover {
+  background-color: rgb(229.6, 229.6, 229.6);
+}
+
+.text-light-gray-9 {
+  color: rgb(242.3, 242.3, 242.3);
+}
+
+.text-hover-gray-light-9:hover {
+  color: rgb(242.3, 242.3, 242.3);
+}
+
+.bg-light-gray-9 {
+  background-color: rgb(242.3, 242.3, 242.3);
+}
+
+.bg-hover-gray-light-9:hover {
+  background-color: rgb(242.3, 242.3, 242.3);
+}
+
+.text-black {
+  color: #000000;
+}
+
+.bg-black {
+  background-color: #000000;
+}
+
+.text-white {
+  color: #ffffff;
+}
+
+.bg-white {
+  background-color: #ffffff;
+}
+
+/* reset styles */
+* {
+  color: inherit;
+  margin: 0;
+}
+
+body {
+  font-family: Poppins;
+}
+
+ul {
+  padding: 0;
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+hr {
+  border: 0;
+  border-top: 1px solid #efefef;
+  margin: 0.75rem 0;
+  padding: 0.75rem 0;
+}
+
+img {
+  max-width: 100%;
+}
+
+.card {
+  display: block;
+  padding: 0.75rem;
+  border: 1px solid #ccc;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+  border-radius: 4px;
+}
+.card .card-title {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-bottom: 0.75rem;
+}
+.card .card-body {
+  font-size: 1rem;
+}
+.card .card-body a {
+  text-decoration: underline;
+}
