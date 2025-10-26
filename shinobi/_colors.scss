@@ -1,0 +1,58 @@
+// EL: loops expalined ---
+// EL: each loop --
+@each $key, $val in $colors {
+    .text-#{$key} {
+        color: $val;
+    }
+
+    .bg-#{$key} {
+        background-color: $val;
+    }
+
+    //EL: if else ---
+    @if($val !=white and $val !=black) {
+
+        //EL: For loop ---
+        // light variation 
+        @for $i from 1 through 9 {
+            .text-light-#{$key}-#{$i} {
+                color: mix(white, $val, $i * 10%);
+            }
+
+            .text-hover-#{$key}-light-#{$i} {
+                &:hover {
+                    color: mix(white, $val, $i * 10%);
+                }
+            }
+
+            .bg-light-#{$key}-#{$i} {
+                background-color: mix(white, $val, $i * 10%);
+            }
+
+            .bg-hover-#{$key}-light-#{$i} {
+                &:hover {
+                    background-color: mix(white, $val, $i * 10%);
+                }
+            }
+        }
+    }
+
+    // ---x---
+
+    // EL: while loop -- 
+    // $i: 1;
+    // @while $i <= 9 {
+    //     .text-#{$key}-#{$i} {
+    //         color: mix(white, $val, $i * 10%);
+    //     }
+
+    //     .bg-#{$key}-#{$i} {
+    //         background-color: mix(white, $val, $i * 10%);
+    //     }
+
+    //     $i: $i + 1;
+    // }
+    // ---x---
+}
+
+// ---x---
