@@ -3420,6 +3420,21 @@ img {
   background-color: #326dee;
 }
 
+.btn-complement-primary {
+  text-decoration: none;
+  cursor: pointer;
+  display: inline-block;
+  border: 0;
+  padding: 0.75rem 1.5rem;
+  border-radius: 20px;
+  background-color: #326dee;
+  color: rgb(249.7162162162, 231.3783783784, 191.2837837838);
+}
+.btn-complement-primary:hover {
+  color: #326dee;
+  background-color: rgb(249.7162162162, 231.3783783784, 191.2837837838);
+}
+
 .btn-secondary {
   text-decoration: none;
   cursor: pointer;
@@ -3445,6 +3460,21 @@ img {
 }
 .btn-outlined-secondary:hover {
   background-color: #1ac888;
+}
+
+.btn-complement-secondary {
+  text-decoration: none;
+  cursor: pointer;
+  display: inline-block;
+  border: 0;
+  padding: 0.75rem 1.5rem;
+  border-radius: 20px;
+  background-color: #1ac888;
+  color: rgb(239.9292035398, 139.0707964602, 176.1681415929);
+}
+.btn-complement-secondary:hover {
+  color: #1ac888;
+  background-color: rgb(239.9292035398, 139.0707964602, 176.1681415929);
 }
 
 .btn-error {
@@ -3474,6 +3504,21 @@ img {
   background-color: #f52e5f;
 }
 
+.btn-complement-error {
+  text-decoration: none;
+  cursor: pointer;
+  display: inline-block;
+  border: 0;
+  padding: 0.75rem 1.5rem;
+  border-radius: 20px;
+  background-color: #f52e5f;
+  color: rgb(192.0136986301, 251.9863013699, 237.2191780822);
+}
+.btn-complement-error:hover {
+  color: #f52e5f;
+  background-color: rgb(192.0136986301, 251.9863013699, 237.2191780822);
+}
+
 .btn-info {
   text-decoration: none;
   cursor: pointer;
@@ -3499,6 +3544,21 @@ img {
 }
 .btn-outlined-info:hover {
   background-color: #f1c40f;
+}
+
+.btn-complement-info {
+  text-decoration: none;
+  cursor: pointer;
+  display: inline-block;
+  border: 0;
+  padding: 0.75rem 1.5rem;
+  border-radius: 20px;
+  background-color: #f1c40f;
+  color: rgb(159.5669291339, 177.4606299213, 249.4330708661);
+}
+.btn-complement-info:hover {
+  color: #f1c40f;
+  background-color: rgb(159.5669291339, 177.4606299213, 249.4330708661);
 }
 
 .btn-blue {
@@ -3528,6 +3588,21 @@ img {
   background-color: #1919e6;
 }
 
+.btn-complement-blue {
+  text-decoration: none;
+  cursor: pointer;
+  display: inline-block;
+  border: 0;
+  padding: 0.75rem 1.5rem;
+  border-radius: 20px;
+  background-color: #1919e6;
+  color: #f5f5a3;
+}
+.btn-complement-blue:hover {
+  color: #1919e6;
+  background-color: #f5f5a3;
+}
+
 .btn-red {
   text-decoration: none;
   cursor: pointer;
@@ -3553,6 +3628,21 @@ img {
 }
 .btn-outlined-red:hover {
   background-color: #e61919;
+}
+
+.btn-complement-red {
+  text-decoration: none;
+  cursor: pointer;
+  display: inline-block;
+  border: 0;
+  padding: 0.75rem 1.5rem;
+  border-radius: 20px;
+  background-color: #e61919;
+  color: #a3f5f5;
+}
+.btn-complement-red:hover {
+  color: #e61919;
+  background-color: #a3f5f5;
 }
 
 .btn-green {
@@ -3582,6 +3672,21 @@ img {
   background-color: #19e635;
 }
 
+.btn-complement-green {
+  text-decoration: none;
+  cursor: pointer;
+  display: inline-block;
+  border: 0;
+  padding: 0.75rem 1.5rem;
+  border-radius: 20px;
+  background-color: #19e635;
+  color: rgb(245, 163, 233.8);
+}
+.btn-complement-green:hover {
+  color: #19e635;
+  background-color: rgb(245, 163, 233.8);
+}
+
 .btn-yellow {
   text-decoration: none;
   cursor: pointer;
@@ -3607,6 +3712,21 @@ img {
 }
 .btn-outlined-yellow:hover {
   background-color: #e6e619;
+}
+
+.btn-complement-yellow {
+  text-decoration: none;
+  cursor: pointer;
+  display: inline-block;
+  border: 0;
+  padding: 0.75rem 1.5rem;
+  border-radius: 20px;
+  background-color: #e6e619;
+  color: #a3a3f5;
+}
+.btn-complement-yellow:hover {
+  color: #e6e619;
+  background-color: #a3a3f5;
 }
 
 .btn-purple {
@@ -3636,6 +3756,21 @@ img {
   background-color: #9900ff;
 }
 
+.btn-complement-purple {
+  text-decoration: none;
+  cursor: pointer;
+  display: inline-block;
+  border: 0;
+  padding: 0.75rem 1.5rem;
+  border-radius: 20px;
+  background-color: #9900ff;
+  color: rgb(193.8, 255, 153);
+}
+.btn-complement-purple:hover {
+  color: #9900ff;
+  background-color: rgb(193.8, 255, 153);
+}
+
 .btn-orange {
   text-decoration: none;
   cursor: pointer;
@@ -3661,6 +3796,21 @@ img {
 }
 .btn-outlined-orange:hover {
   background-color: #ff8000;
+}
+
+.btn-complement-orange {
+  text-decoration: none;
+  cursor: pointer;
+  display: inline-block;
+  border: 0;
+  padding: 0.75rem 1.5rem;
+  border-radius: 20px;
+  background-color: #ff8000;
+  color: rgb(153, 203.8, 255);
+}
+.btn-complement-orange:hover {
+  color: #ff8000;
+  background-color: rgb(153, 203.8, 255);
 }
 
 .btn-gray {
@@ -3690,6 +3840,21 @@ img {
   background-color: #808080;
 }
 
+.btn-complement-gray {
+  text-decoration: none;
+  cursor: pointer;
+  display: inline-block;
+  border: 0;
+  padding: 0.75rem 1.5rem;
+  border-radius: 20px;
+  background-color: #808080;
+  color: rgb(204.5, 204.5, 204.5);
+}
+.btn-complement-gray:hover {
+  color: #808080;
+  background-color: rgb(204.5, 204.5, 204.5);
+}
+
 .btn-black {
   text-decoration: none;
   cursor: pointer;
@@ -3717,6 +3882,21 @@ img {
   background-color: #000000;
 }
 
+.btn-complement-black {
+  text-decoration: none;
+  cursor: pointer;
+  display: inline-block;
+  border: 0;
+  padding: 0.75rem 1.5rem;
+  border-radius: 20px;
+  background-color: #000000;
+  color: rgb(76.5, 76.5, 76.5);
+}
+.btn-complement-black:hover {
+  color: #000000;
+  background-color: rgb(76.5, 76.5, 76.5);
+}
+
 .btn-white {
   text-decoration: none;
   cursor: pointer;
@@ -3742,4 +3922,19 @@ img {
 }
 .btn-outlined-white:hover {
   background-color: #ffffff;
+}
+
+.btn-complement-white {
+  text-decoration: none;
+  cursor: pointer;
+  display: inline-block;
+  border: 0;
+  padding: 0.75rem 1.5rem;
+  border-radius: 20px;
+  background-color: #ffffff;
+  color: white;
+}
+.btn-complement-white:hover {
+  color: #ffffff;
+  background-color: white;
 }
